@@ -37,7 +37,6 @@ AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After complet
 ### Release focus
 This release emphasizes **stability and refinement of existing functionality**, improving reliability and behavior across typical workflows. The Pro edition aims to be a **clear improvement over the open-source version**.
 
-
 | Component   | Status                        |
 |-------------|-------------------------------|
 | Virtual Env | works (not fully tested)      |
@@ -49,6 +48,7 @@ This release emphasizes **stability and refinement of existing functionality**, 
 | Cython      | works well (not fully tested) |
 | MSVC        | works well (not fully tested) |
 | Inspector   | works well                    |
+| Obfuscator  | experimental                  |
 | Secure Compilers | works (not fully tested) |
 
 ```
