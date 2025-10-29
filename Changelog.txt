@@ -1,6 +1,4 @@
 
-
-
 ### (latest) Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
