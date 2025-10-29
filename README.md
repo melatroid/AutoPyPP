@@ -4,15 +4,19 @@
 
 A Pro edition is planned with additional features beyond the open-source release. It will receive fewer but more stable updates, with a focus on hardening and fully defining the interfaces between extensions. To maintain transparency, several Python files will remain open, while selected components will be protected with a PyArmor runtime to enable Pro-only features and improvements. The UI will be streamlined—no “About” popups.
 
+### Pro Version (Coming soon)
+
+A Pro edition is planned with additional features beyond the open-source release. It will receive fewer but more stable updates, with a focus on hardening and fully defining the interfaces between extensions. To maintain transparency, several Python files will remain open, while selected components will be protected with a PyArmor runtime to enable Pro-only features and improvements. The UI will be streamlined—no “About” popups.
+
+The Pro version is expected to cost around **€20 per year**, payable via a payment platform to activate a **PC-bound license**. The subscription will include all future updates released within the subscription period. Exact details will be announced once technical questions are resolved.
+
 ### Version 1.02
 
 This release emphasizes stability and refinement of existing functionality, improving reliability and behavior across typical workflows.
 
 ### Installable (Windows 10/11)
 
-An installable setup for Windows 10/11 is in development to allow a straightforward installation without manual configuration.
-
-
+An installable setup for Windows 10/11 is in development to allow straightforward installation without manual configuration.
 
 
 | Component   | Status                        |
