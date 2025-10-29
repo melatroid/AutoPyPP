@@ -1,4 +1,4 @@
-<img src="https://nexosoft-engineering.de/autopyplusplus/git_new.png" alt="Alt-Text" width="250" />
+<img src="https://nexosoft-engineering.de/autopyplusplus/git_pro.png" alt="Alt-Text" width="250" />
 
 ### Pro Version (Coming soon)
 
