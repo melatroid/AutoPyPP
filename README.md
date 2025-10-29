@@ -2,15 +2,23 @@
 
 ### Pro Version (Coming soon)
 
-A Pro edition is planned with additional features beyond the open-source release. It will receive fewer but more stable updates, with a focus on hardening and fully defining the interfaces between extensions. To maintain transparency, several Python files will remain open, while selected components will be protected with a PyArmor runtime to enable Pro-only features and improvements. The UI will be streamlined—no “About” popups.
+AutoPy++ Pro is aimed at professional users and developers who rely on hardened builds, reliable workflows, and smooth integration with other IDEs. Building on the open-source release, it adds capabilities while prioritizing fewer but more stable updates, fully defined extension interfaces, and overall robustness. To maintain transparency, core Python files will remain open; selected components will be protected with a PyArmor runtime to enable Pro-only features and performance improvements. The UI will be streamlined—no “About” pop-ups—for a cleaner experience. Pricing is planned at around €20 per year via a payment platform, activating a machine-bound license; an active subscription includes all updates released during the term, with final commercial and technical details to follow once remaining questions are resolved. Above all, this release focuses on stability and refinement of existing functionality, delivering more dependable behavior across typical workflows and a clear improvement over the open-source version.
 
-The Pro version is expected to cost around **€20 per year**, payable via a payment platform to activate a **PC-bound license**. The subscription will include all future updates released within the subscription period. Exact details will be announced once technical questions are resolved.
+### What to expect
+- **Stability over frequency**: fewer, more stable updates
+- **Hardening & interfaces**: fully defined extension interfaces and improved robustness
+- **Transparent architecture**: core Python files remain open; select components are protected with a **PyArmor runtime** to deliver Pro-only features and performance gains
+- **Streamlined UI**: no “About” pop-ups, a cleaner experience
+- **Better with IDEs**: enhanced support for build processes across common IDEs
 
-This release emphasizes stability and refinement of existing functionality, improving reliability and behavior across typical workflows.
+### Licensing & Pricing
+- Planned price: **~€20/year**
+- Activation via a payment platform; **machine-bound (PC) license**
+- Subscription includes **all updates** released during the active term
+- Final commercial and technical details will be announced once remaining questions are resolved
 
-### Installable (Windows 10/11)
-
-An installable setup for Windows 10/11 is in development to allow straightforward installation without manual configuration.
+### Release focus
+This release emphasizes **stability and refinement of existing functionality**, improving reliability and behavior across typical workflows. The Pro edition aims to be a **clear improvement over the open-source version**.
 
 
 | Component   | Status                        |
