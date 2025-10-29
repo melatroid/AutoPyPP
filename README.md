@@ -6,8 +6,6 @@ A Pro edition is planned with additional features beyond the open-source release
 
 The Pro version is expected to cost around **€20 per year**, payable via a payment platform to activate a **PC-bound license**. The subscription will include all future updates released within the subscription period. Exact details will be announced once technical questions are resolved.
 
-### Version 1.02
-
 This release emphasizes stability and refinement of existing functionality, improving reliability and behavior across typical workflows.
 
 ### Installable (Windows 10/11)
