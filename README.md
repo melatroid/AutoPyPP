@@ -21,7 +21,7 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 ### Installation & Activation
 AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After completing registration and automatic licensing, the software can be used without limitations. Registration requires first name, last name, and an email address. To simplify the process, a built-in Licensing Assistant guides you step by step through registration and activation; once the license is bound to your machine, AutoPy++ Pro starts fully unlocked.
 
-### System Requirements
+### minimal system requirements
 
 - **OS:** Windows 10 or Windows 11 (64-bit)
 - **CPU:** x86_64, 2+ cores (AVX-capable recommended for best performance)
@@ -32,7 +32,7 @@ AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After complet
 - **Display:** 1366×768 minimum (1920×1080 recommended)
 - **Dependencies:**
   - Common runtimes (e.g., Microsoft Visual C++ Redistributable) are installed automatically if missing
-  - Optional: **Python 3.10–3.12** if you plan to use the CLI/SDK or custom build scripts
+  - Optional: **Python 3.10–3.13** if you plan to use the CLI/SDK or custom build scripts
 
 ### Release focus
 This release emphasizes **stability and refinement of existing functionality**, improving reliability and behavior across typical workflows. The Pro edition aims to be a **clear improvement over the open-source version**.
