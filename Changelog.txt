@@ -13,9 +13,9 @@
 
 ### Version 1.01
 - More Testfiles
-
+- Main-Gui Bugfixes
 ### Version 1.00
-- Fixing Pyarmor Pro Featueres 
+- Fixing Pyarmor Pro/Basic Featueres 
 - Working Obfs 0,1,2
 - Working RFT
 - Working BCC
