@@ -1,0 +1,28 @@
+
+
+
+### (latest) Version 1.02
+- NEW AutoPy++ Obfuscator
+- Single File or Folders
+- remove docstrings 
+- def-Function + String Base64 + XOR Obfuscator
+- Single file works
+- Multiple py.file function detection works
+- Working Gui Presettings 
+- Watch and Edit Mappings
+- Project Based Maps
+- Function Name Generator
+
+### Version 1.01
+- More Testfiles
+
+### Version 1.00
+- Fixing Pyarmor Pro Featueres 
+- Working Obfs 0,1,2
+- Working RFT
+- Working BCC
+- Working JIT
+- Working Thermida
+- Working Mix strings
+- Working private
+- Working restrict
