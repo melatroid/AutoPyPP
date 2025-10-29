@@ -1,7 +1,19 @@
 <img src="https://nexosoft-engineering.de/autopyplusplus/git_new.png" alt="Alt-Text" width="250" />
 
-# Pro Version
-# Version 1.02   
+### Pro Version (Coming soon)
+
+A Pro edition is planned with additional features beyond the open-source release. It will receive fewer but more stable updates, with a focus on hardening and fully defining the interfaces between extensions. To maintain transparency, several Python files will remain open, while selected components will be protected with a PyArmor runtime to enable Pro-only features and improvements. The UI will be streamlined—no “About” popups.
+
+### Version 1.02
+
+This release emphasizes stability and refinement of existing functionality, improving reliability and behavior across typical workflows.
+
+### Installable (Windows 10/11)
+
+An installable setup for Windows 10/11 is in development to allow a straightforward installation without manual configuration.
+
+
+
 
 | Component   | Status                        |
 |-------------|-------------------------------|
