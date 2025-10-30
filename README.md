@@ -91,80 +91,11 @@ This release emphasizes **stability and refinement of existing functionality**, 
 **Overwrite `myProject.apyscript` to set the home project for AutoPy++.**
 
 
-## Installation for Windows 10/11
-
-1. **Install Git (if not already installed):**
-   https://git-scm.com/download/win
-
-2. **Install Python 3.10 or newer (if not already installed):**  
-   https://www.python.org/downloads/windows/
-
-3. **Repository clone:**  
-  Open Command Prompt (cmd) or PowerShell and enter
-   ```cmd/ powershell
-   git clone https://github.com/melatroid/autoPyPlusPlus.git
-   cd c:\pathto\autoPyPlusPlus
-
-4. **Install Requirements**
-    ```cmd/ powershell
-    pip install -r requirements.txt
-   
-5. **Start autoPy++**
-   ```cmd/ powershell
-   cd c:\pathto\autoPyPlusPlus
-   python autoPyPlusPlus.py
-
-6. **Alternative Start autoPy++**
-   ```cmd/ powershell
-   cd c:\pathto\autoPyPlusPlus
-   windows_start.bat
-   (Create a shortcut from this to your desktop and change icon to src\autoPy++.ico)
-   
-7. **Update autoPy++ to newer version**
-   ```cmd/ powershell
-   Read this file -> src/update_howto.txt
-   After that use -> src/windows_update.ps1
-
-## More Important!
-
 Before you use this software:
-
 > This software is currently under development.  
 > **Backup your files before you start compiling!** Errors in the software or incorrect flags could delete your files!  
 > It can contain bugs that crash your whole system... use it carefully.  
 > Send us error reports with detailed text and screenshots to: info@nexosoft-engineering.de
-
----
-
-## 1.) Install over Requirements.txt or go to IDE console and install the following packages:
-
-```bash
-pip install pyinstaller   
-pip install nuitka        
-pip install cython        
-pip install pyarmor        
-pip install pytest
-pip install sphinx   
-```
-
-Check the installed paths with:
-
-```bash
-where pyinstaller
-where pyarmor
-where nuitka
-where cython
-where pytest
-where sphinx
-```
-
----
-
-## 2.) Open Extensions in main gui and add your favorites
-
----
-
-## 3.) Replace the links to the `.exe` files accordingly.
 
 ---
 
