@@ -10,7 +10,7 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
   <a href="https://nexosoft-engineering.de/autopyplusplus/mailcheck.html">🐍 Mailcheck 🐍</a>
 </div>
 
-### Register
+### How to get AutoyPy++ Pro?
 - Step 1.) Check if your Mail Adress is accepted
 - Step 2.) Payment                 (Coming Soon)
 - Step 3.) Register                (Coming Soon)
