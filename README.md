@@ -15,7 +15,6 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 - Step 2.) Payment    (Coming Soon)
 - Step 3.) Register   (Coming Soon)
 - Step 4.) Activation (Coming Soon)
-- 
 - Step 5.a.) Reactivation (Coming Soon)
 - Step 5.b.) Renewal (Coming Soon)
   
