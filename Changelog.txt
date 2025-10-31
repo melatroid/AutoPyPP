@@ -1,5 +1,10 @@
+### (latest) Version 1.03
+- NEW Virtual Environment Editor (env_yourProjektname.ini)
+- Choose between different env_setup files
+- Easy install pymodules to your venv
+- System modules or extension list
 
-### (latest) Version 1.02
+### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
 - remove docstrings 
