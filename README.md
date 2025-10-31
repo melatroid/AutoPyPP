@@ -13,11 +13,10 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 ### How to get AutoyPy++ Pro?
 - Step 1.) Check if your Mail Adress is accepted
 - Step 2.) Payment                 (Coming Soon)
-- Step 3.) Register                (Coming Soon)
-- Step 4.) Download & Installation (Coming Soon)
-- Step 5.) Activation              (Coming Soon)
-- Step 6.a.) Reactivation          (Coming Soon)
-- Step 6.b.) Renewal               (Coming Soon)
+- Step 3.) Download & Installation (Coming Soon)
+- Step 4.) Activation              (Coming Soon)
+- Step 5.a.) Reactivation          (Coming Soon)
+- Step 5.b.) Renewal               (Coming Soon)
   
 ### What to expect
 - **Stability over frequency**: fewer, more stable updates
