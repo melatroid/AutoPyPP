@@ -4,6 +4,14 @@
 - Easy install pymodules to your venv
 - System modules or extension list
 
+- NEW Advanced Apyscript Managment tool
+- nice mouseclick left/right replacment functions
+- Advanced string search
+- Easy Version & Notes
+
+- NEW After Copy
+- Easy copy any files to any folder, with many options
+
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
