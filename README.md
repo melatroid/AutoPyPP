@@ -13,8 +13,8 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 ### How to get AutoyPy++ Pro?
 - Step 1.) Check if your Mail Adress is accepted
 - Step 2.) Payment                 (Coming Soon)
-- Step 3.) Download & Installation (Coming Soon)
-- Step 4.) Activation              (Coming Soon)
+- Step 3.) Download & Installation 
+- Step 4.) Activation              
 - Step 5.a.) Reactivation          (Coming Soon)
 - Step 5.b.) Renewal               (Coming Soon)
   
@@ -27,7 +27,7 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 
 ### Licensing & Pricing
 - Planned price: **~€20/year**
-- Activation via a payment platform; **machine-bound (PC) license**
+- Activation via a payment platform; **machine-bound (PC) license user bindet**
 - Subscription includes **all updates** released during the active term
 - Final commercial and technical details will be announced once remaining questions are resolved
 
