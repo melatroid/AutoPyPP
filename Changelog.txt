@@ -8,6 +8,7 @@
 - nice mouseclick left/right replacment functions
 - Advanced string search
 - Easy Version Managment & Notes with exporter
+- repair and update older apyscripts
 
 - NEW After Copy
 - Easy copy any files to any folder, with many options
