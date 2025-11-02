@@ -7,7 +7,7 @@
 - NEW Advanced Apyscript Managment tool
 - nice mouseclick left/right replacment functions
 - Advanced string search
-- Easy Version & Notes
+- Easy Version Managment & Notes with exporter
 
 - NEW After Copy
 - Easy copy any files to any folder, with many options
