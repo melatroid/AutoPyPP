@@ -16,6 +16,9 @@
 - NEW Cython Setup.py
 - Easy create a setup.py for your cython builds
 
+- NEW Transfer Properties
+- Easy transfer properties from one project to other others
+
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
