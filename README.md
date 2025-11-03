@@ -11,7 +11,7 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
   <a href="https://nexosoft-engineering.de/autopyplusplus/mailcheck.html">🐍 Mailcheck 🐍</a>
 </p>
 
-**Step 2:** Test your system with the requirements files  
+**Step 2:** Test your system with the requirements files (right click, link save as...)
 <p align="center">
   <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements.bat">🐍 Requirements.bat</a>
   &nbsp;•&nbsp;
