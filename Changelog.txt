@@ -13,6 +13,9 @@
 - NEW After Copy
 - Easy copy any files to any folder, with many options
 
+- NEW Cython Setup.py
+- Easy create a setup.py for your cython builds
+
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
