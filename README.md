@@ -13,9 +13,9 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 
 **Step 2:** Test your system with the requirements files (right click, link save as...)
 <p align="center">
-  <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements_start.bat">🐍 Requirements.bat</a>
+  <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements_start.bat">🐍 Win Starter </a>
   &nbsp;•&nbsp;
-  <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements.ps1">Requirements.ps1 🐍</a>
+  <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements.ps1">Processfile 🐍</a>
 </p>
 
 
