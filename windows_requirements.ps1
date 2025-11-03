@@ -1,10 +1,5 @@
 <# 
     AutoPy++ System Requirements Checker (Windows 10/11)
-    Tailored for https://github.com/melatroid/autoPyPlusPlus
-    - Checks: OS build, RAM, Free disk
-              Python (>=3.10) & pip
-              Git
-    - WPF GUI + English report export
 #>
 
 # --------------------------
