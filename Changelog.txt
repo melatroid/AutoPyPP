@@ -19,6 +19,11 @@
 - NEW Transfer Properties
 - Easy transfer properties from one project to other others
 
+- NEW C/C++ Code Squeeze
+- Remove all docfiles in C/C++ files
+- Reduces the Cython C-Code to round about 75-95% fewer lines.
+- Harder to read and reverse
+
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
