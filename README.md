@@ -8,10 +8,10 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 
 **Step 1:** Test your Mailadress  
 <p align="center">
-  <a href="https://nexosoft-engineering.de/autopyplusplus/mailcheck.html">🐍 Mailcheck 🐍</a>
+  <a href="https://nexosoft-engineering.de/autopyplusplus/mailcheck.html">🐍 Mail checker 🐍</a>
 </p>
 
-**Step 2:** Test your system with the requirements files (right click, link save as...)
+**Step 2:** Test your system with this files (right click, link save as...)
 <p align="center">
   <a href="https://raw.githubusercontent.com/melatroid/AutoPyPP/main/windows_requirements_start.bat">🐍 Win Starter </a>
   &nbsp;•&nbsp;
