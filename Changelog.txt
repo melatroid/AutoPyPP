@@ -5,7 +5,7 @@
 - System modules or extension list
 
 - NEW Advanced Apyscript Managment tool
-- nice mouseclick left/right replacment functions
+- Nice mouseclick left/right replacment functions
 - Advanced string search
 - Easy Version Managment & Notes with exporter
 - repair and update older apyscripts
