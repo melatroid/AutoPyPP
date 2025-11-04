@@ -21,7 +21,7 @@
 
 - NEW C/C++ Code Squeeze
 - Remove all docfiles in C/C++ files
-- Reduces the Cython C-Code to round about 75-95% fewer lines.
+- Reduces the Cython C-Code to round about 75-98% fewer lines.
 - Converts string to Hex
 - Very hard to read and reverse
 
