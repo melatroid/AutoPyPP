@@ -11,7 +11,7 @@
 - repair and update older apyscripts
 
 - NEW After Copy
-- Easy copy any files to any folder, with many options
+- Easy copy any files any folder, with many options
 
 - NEW Cython Setup.py
 - Easy create a setup.py for your cython builds
