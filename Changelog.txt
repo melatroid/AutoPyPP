@@ -4,26 +4,29 @@
 - Easy install pymodules to your venv
 - System modules or extension list
 
-- NEW Advanced Apyscript Managment tool
+- NEW Advanced Apyscript Managment 
 - Nice mouseclick left/right replacment functions
 - Advanced string search
 - Easy Version Managment & Notes with exporter
 - repair and update older apyscripts
 
-- NEW After Copy
+- NEW After Copy Editor
 - Easy copy any files any folder, with many options
 
 - NEW Cython Setup.py
 - Easy create a setup.py for your cython builds
 
-- NEW Transfer Properties
+- NEW Transfer Properties Editor
 - Easy transfer properties from one project to other others
 
-- NEW C/C++ Code Squeeze
+- NEW C/C++ Code Squeeze Editor 
 - Remove all docfiles in C/C++ files
 - Reduces the Cython C-Code to round about 75-98% fewer lines.
 - Converts string to Hex
 - Very hard to read and reverse
+
+- NEW Py Harder Editor
+- Implements a Antidebug Extension to your PyFiles
 
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
