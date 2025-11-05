@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nexosoft-engineering.de/autopyplusplus/git_p.png" alt="Alt-Text" width="250" />
+  <img src="https://www.nexosoft-engineering.de/AutoPyPP/cdcover.png" alt="Alt-Text" width="250" />
 </div>
 
 ### Pro Version (Coming soon)
