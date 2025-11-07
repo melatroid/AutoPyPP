@@ -28,6 +28,9 @@
 - NEW Py Harder Editor
 - Implements a Antidebug Extension to your PyFiles
 
+- Pyarmor dont use "pack" anymore, new solution found for BundlePack
+- NEW Pyarmor Bindung Machine Manager
+
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
 - Single File or Folders
