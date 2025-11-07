@@ -26,8 +26,8 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 - Step 4.) Download & Installation (✅)
 - Step 5.) Activation              (✅)
 - Step 6.) Softwareupdates         (✅)          
-- Step 7.a.) Reactivation          (❌ Coming Soon)
-- Step 7.b.) Renewal               (❌ Coming Soon)
+- Step 7.a.) Reactivation          (✅)
+- Step 7.b.) Renewal               (✅)
   
 ### What to expect
 - **Stability over frequency**: fewer, more stable updates
