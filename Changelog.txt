@@ -28,7 +28,7 @@
 - NEW Py Harder Editor
 - Implements a Antidebug Extension to your PyFiles
 
-- Pyarmor dont use "pack" anymore, new solution found for BundlePack
+- Pyarmor 9 dont use direct exe output anymore
 - NEW Pyarmor Bindung Machine Manager
 
 ### Version 1.02
