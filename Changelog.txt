@@ -30,6 +30,7 @@
 
 - Pyarmor 9 dont use direct exe output anymore
 - NEW Pyarmor Bindung Machine Manager
+- Easy binding any machine in pyarmor
 
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
