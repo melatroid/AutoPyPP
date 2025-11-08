@@ -74,7 +74,7 @@ This release emphasizes **stability and refinement of existing functionality**, 
 | Sphinx      | works (not fully tested)      |
 | Pytest      | works (not fully tested)      |
 | PyInstaller | works well (not fully tested) |
-| PyArmor     | works Pro/Basic               |
+| PyArmor     | works well                    |
 | Nuitka      | works      (not fully tested) |
 | Cython      | works well (not fully tested) |
 | MSVC        | works well (not fully tested) |
