@@ -35,6 +35,7 @@
 - Edit manually cli command
 - New Security Presets for Pyarmor
 - Better Syntax generation for pyarmor
+- Most/Full PyArmor Featueres
 
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
