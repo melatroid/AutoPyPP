@@ -28,7 +28,13 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 - Step 6.) Softwareupdates         (✅)          
 - Step 7.a.) Reactivation          (✅)
 - Step 7.b.) Renewal               (✅)
-  
+
+### Featueres
+<div>
+  <img src="https://www.nexosoft-engineering.de/AutoPyPP/tools.png" alt="Alt-Text" width="250" />
+</div>
+
+
 ### What to expect
 - **Stability over frequency**: fewer, more stable updates
 - **Hardening & interfaces**: fully defined extension interfaces and improved robustness
