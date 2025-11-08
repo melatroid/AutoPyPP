@@ -28,10 +28,12 @@
 - NEW Py Harder Editor
 - Implements a Antidebug Extension to your PyFiles
 
-- Pyarmor 9 dont use direct exe output anymore
+- Pyarmor 9 no longer uses direct EXE output
 - NEW Pyarmor Bindung Machine Manager
 - Easy binding any machine in pyarmor with expire
 - Edit manually cli command
+- New Security Presets for Pyarmor
+- Better Syntax generation for pyarmor
 
 ### Version 1.02
 - NEW AutoPy++ Obfuscator
