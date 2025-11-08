@@ -224,6 +224,8 @@ AutoReset = true
 ---
 
 # Nuitka Usage
+Check your license... here https://nuitka.net/
+https://nuitka.net/commercial/purchase.html
 
 To startup nuitka compiled .exe files you need to,
 set your compiled .exe file and folder in your Antivirus to secure.
