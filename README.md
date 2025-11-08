@@ -4,7 +4,7 @@
 
 ### Pro Version (Release planed 01/2026)
 
-AutoPy++ Pro targets professional users and developers who need hardened builds, reliable workflows, and smooth integration with common IDEs. Building on the open-source core, Pro consolidates and extends functionality while favoring fewer, more stable releases, with clearly defined interfaces between extensions to keep automation predictable. To maintain transparency, essential Python sources remain open, while selected modules are delivered under a PyArmor runtime to enable Pro-only capabilities and performance gains. Pricing is planned at ~€20 per year via a payment platform; the purchase activates a machine-bound license, and all updates released during the active term are included. Overall, Pro emphasizes stability and refinement of what python developer use every day, delivering a clear improvement over the open-source edition. Final commercial and technical details will be confirmed once remaining questions are resolved. 
+AutoPy++ Pro targets professional users and developers who need hardened builds, reliable workflows, and smooth integration with common IDEs. Building on the open-source core, Pro consolidates and extends functionality while favoring fewer, more stable releases, with clearly defined interfaces between extensions to keep automation predictable. To maintain transparency, essential Python sources remain open, while selected modules are delivered under a PyArmor runtime to enable Pro-only capabilities and performance gains. Pricing is planned at ~€25 per year via a payment platform; the purchase activates a machine-bound license, and all updates released during the active term are included. Overall, Pro emphasizes stability and refinement of what python developer use every day, delivering a clear improvement over the open-source edition. Final commercial and technical details will be confirmed once remaining questions are resolved. 
 
 **Step 1:** Test your Mailadress  
 <p align="center">
@@ -43,7 +43,7 @@ AutoPy++ Pro targets professional users and developers who need hardened builds,
 - **Better with IDEs**: enhanced support for build processes across common IDEs
 
 ### Licensing & Pricing
-- Planned price: **~€20/year**
+- Planned price: **~€25/year**
 - Activation via a payment platform; **machine-bound (PC) license user bindet**
 - Subscription includes **all updates** released during the active term
 - Final commercial and technical details will be announced once remaining questions are resolved
