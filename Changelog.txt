@@ -14,7 +14,8 @@
 - Easy copy any files any folder, with many options
 
 - NEW Cython Setup.py
-- Easy create a setup.py for your cython builds
+- Easy create a setup.py for your cython pipeline extension 
+- Easy Build with Editor your own setup.py
 
 - NEW Transfer Properties Editor
 - Easy transfer properties from one project to other others
