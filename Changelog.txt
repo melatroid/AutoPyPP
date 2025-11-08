@@ -28,6 +28,7 @@
 
 - NEW Py Harder Editor
 - Implements a Antidebug Extension to your PyFiles
+- Self Hashing Check with hashfile.png
 
 - Pyarmor 9 no longer uses direct EXE output
 - NEW Pyarmor Bindung Machine Manager
