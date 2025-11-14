@@ -61,9 +61,7 @@ AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After complet
 - **Permissions:** Local administrator rights for installation; outbound HTTPS access for licensing
 - **Display:** 1366×768 minimum (1920×1080 recommended)
 - **No VM:** Dont Install AutoPy++ in virtual machines!
-- **Dependencies:**
-  - Common runtimes (e.g., Microsoft Visual C++ Redistributable) are installed automatically if missing
-  - Optional: **Python 3.10–3.13** if you plan to use the CLI/SDK or custom build scripts
+
 
 ### Release focus
 This release emphasizes **stability and refinement of existing functionality**, improving reliability and behavior across typical workflows. The Pro edition aims to be a **clear improvement over the open-source version**.
