@@ -61,7 +61,7 @@ AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After complet
 - **Permissions:** Local administrator rights for installation; outbound HTTPS access for licensing
 - **Display:** 1366×768 minimum (1920×1080 recommended)
 - **No VM:** Dont Install AutoPy++ in virtual machines!
-- **MSVC 2022** Build Tools for C++
+- **MSVC 2026** Build Tools for C++
 
   
 ### Release focus
@@ -140,7 +140,7 @@ Before you use this software:
 - start msvc_start.exe
 
 **Add your MSVC Compiler to Extensions** 
-Open under Windows.: x64 Native Tools Command Prompt for VS 2022
+Open under Windows.: x64 Native Tools Command Prompt for VS 2026
 ```bash
 where cl
 ```
