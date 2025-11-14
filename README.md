@@ -63,6 +63,7 @@ AutoPy++ Pro is delivered via a Windows 10/11-32/64-Bit installer. After complet
 - **No VM:** Dont Install AutoPy++ in virtual machines!
 - **MSVC 2026 Build Tools for C++
 
+  
 ### Release focus
 This release emphasizes **stability and refinement of existing functionality**, improving reliability and behavior across typical workflows. The Pro edition aims to be a **clear improvement over the open-source version**.
 
