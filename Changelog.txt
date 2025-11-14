@@ -1,3 +1,6 @@
+### (preview) Version 1.03
+- Update for next gen. MSVC 2026 
+
 ### (latest) Version 1.03
 - NEW Virtual Environment Editor (env_yourProjektname.ini)
 - Choose between different env_setup files
