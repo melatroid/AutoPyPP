@@ -4,6 +4,8 @@
 - CPP DocSqueeze Pipline works now with Cython
 - Advanced Setting for DocSqueeze Pipeline
 
+- NEW New Update Function
+
 - NEW Config AutoPy++
 - Easly change your Python Versions
 - Change Console Colors 
