@@ -1,6 +1,20 @@
 
-
 ### (latest) Version 1.03
+- NEW Tips & Hints
+- CPP DocSqueeze Pipline works now with Cython
+- Advanced Setting for DocSqueeze Pipeline
+
+- NEW Config AutoPy++
+- Easly change your Python Versions
+- Change Console Colors 
+
+- Better colors for standart themes
+- Much new Themes
+
+- NEW Import & Value Studio
+- Code Quality Report
+- You can easily move Python modules around for your entire project
+
 - NEW Virtual Environment Editor (env_yourProjektname.ini)
 - Choose between different env_setup files
 - Easy install pymodules to your venv
