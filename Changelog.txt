@@ -14,6 +14,8 @@ ensuring that every key and value is correctly recovered.
 
 - Better Advanced Settings
 
+- Maingui saves window size and position
+
 - NEW New Update Function
 
 - NEW Config AutoPy++
