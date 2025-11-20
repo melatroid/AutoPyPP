@@ -14,7 +14,7 @@ ensuring that every key and value is correctly recovered.
 
 - Better Advanced Settings
 
-- Maingui saves window size and position
+- Maingui saves window size and position (Exit over Titlebar)
 
 - NEW New Update Function
 
